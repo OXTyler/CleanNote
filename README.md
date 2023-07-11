@@ -6,7 +6,6 @@ this is a minimal note taking app that allows for notes to be saved in rich text
 **How to Run**
 after installing, you will need nodejs, and just run:
 
-'''
-npm install
+
+npm install \n
 npm start
-'''
